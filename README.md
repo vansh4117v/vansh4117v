@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+🚀 Student at ABES Engineering College | Computer Science
+💻 Tech Enthusiast | Python | C++ | Web Development
+🔍 Currently diving into Data Structures & Algorithms (DSA)
+📚 Working on LiteCode - A lightweight online code editor
+🔄 Learning new technologies and building things along the way
+
+
+
 <!--
 **vansh4117v/vansh4117v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
