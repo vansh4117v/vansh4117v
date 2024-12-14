@@ -2,7 +2,7 @@
 
 🚀 Student at ABES Engineering College | Computer Science  
 💻 Tech Enthusiast | Python | C++ | Web Development  
-🌱 I’m currently learning **Data Structures & Algorithms (DSA)** and improving my **JavaScript** skills.  
+🌱 I’m currently learning Data Structures & Algorithms (DSA) and improving my JavaScript skills.  
 🔭 I’m currently working on **LiteCode**, a lightweight online code editor.  
 📫 How to reach me: [vanshgupta9917@gmail.com](mailto:vanshgupta9917@gmail.com)  
 🔄 Learning new technologies and building things along the way  
