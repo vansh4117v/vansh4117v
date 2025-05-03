@@ -1,25 +1,30 @@
-## Hi there 👋
+# 👋 Hello, I'm Vansh Gupta
 
-🚀 Student at ABES Engineering College | Computer Science  
-💻 Tech Enthusiast | Python | C++ | Web Development  
-🌱 I’m currently learning Data Structures & Algorithms (DSA) and improving my JavaScript skills.  
-🔭 I’m currently working on **LiteCode**, a lightweight online code editor.  
-📫 How to reach me: [vanshgupta9917@gmail.com](mailto:vanshgupta9917@gmail.com)  
-🔄 Learning new technologies and building things along the way  
+I'm a Computer Science undergraduate at ABES Engineering College with a strong interest in **web development** and **problem-solving**. I enjoy building responsive web applications and experimenting with modern tools and technologies. My current focus is on building full-stack projects using **React**, **Clerk**, **Supabase**, and **Appwrite**.
 
+---
 
+## 🔧 Tech Stack
 
-<!--
-**vansh4117v/vansh4117v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Languages:** C++, Python, JavaScript  
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+- **LiteCode** – Online code editor with multiple themes and live code execution powered by Piston API.  
+- **URL Shortener** – A modern URL shortener with QR code generation, custom/auto short URLs, and analytics.  
+- **Job Portal** – A platform for job seekers and employers featuring authentication (Clerk), resume upload (Supabase), and job posting.
+- **Blog Platform** – A fully featured blog site with authentication, rich text editor, and post management using Appwrite and TinyMCE.  
+
+---
+
+## 📫 Get in Touch
+
+- **Email:** [vanshgupta9917@gmail.com](mailto:vanshgupta9917@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/vansh4117v](https://linkedin.com/in/vansh4117v)  
+
+---
+
+Thanks for visiting my profile!
