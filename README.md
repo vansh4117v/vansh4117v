@@ -1,30 +1,26 @@
-# 👋 Hello, I'm Vansh Gupta
+# Vansh Gupta
 
-I'm a Computer Science undergraduate at ABES Engineering College with a strong interest in **web development** and **problem-solving**. I enjoy building responsive web applications and experimenting with modern tools and technologies. My current focus is on building full-stack projects using **React**, **Clerk**, **Supabase**, and **Appwrite**.
+Computer Science undergraduate (3rd year) with a strong focus on **backend engineering, system design, and full-stack development**. 
 
----
+## About
+- B.Tech CS @ ABES Engineering College 
+- Focus: backend engineering, system internals and reliable full-stack apps.  
+- Strong practical experience with JavaScript/TypeScript; comfortable in C++ and Python.  
 
-## 🔧 Tech Stack
 
-- **Languages:** C++, Python, JavaScript  
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
+## Featured projects
 
----
+### Redis Clone
+- Implementing RESP, commands, transactions, pub/sub, and streams in TypeScript.  
+- Goal: match real Redis behaviour (edge cases, transaction/watch semantics, blocking commands).  
 
-## 🚀 Featured Projects
+### Google Meet Clone
+- WebRTC video + Socket.io signalling, chat, screen share, room management.  
+- Built to understand realtime + media flow end-to-end.
 
-- **LiteCode** – Online code editor with multiple themes and live code execution powered by Piston API.  
-- **URL Shortener** – A modern URL shortener with QR code generation, custom/auto short URLs, and analytics.  
-- **Job Portal** – A platform for job seekers and employers featuring authentication (Clerk), resume upload (Supabase), and job posting.
-- **Blog Platform** – A fully featured blog site with authentication, rich text editor, and post management using Appwrite and TinyMCE.  
-
----
-
-## 📫 Get in Touch
-
+## Get in Touch
 - **Email:** [vanshgupta9917@gmail.com](mailto:vanshgupta9917@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/vansh4117v](https://linkedin.com/in/vansh4117v)  
 
----
 
-Thanks for visiting my profile!
+
